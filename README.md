@@ -3,17 +3,18 @@
 
 ## 👩‍💻 About Me (Обо мне)
 I am the founder and director of the **GuardAurora**, **SolEstate** and **Verix** projects
+
 ### [🛡️ GuardAurora Web App](https://romiisromie.github.io/GuardAurora-Web/)
 
-## 📈 GitHub Stats
-![Streak Stats](https://github-readme-stats.vercel.app/api/streak-stats/?username=romiisromie&theme=radical)
+## 📫 How to reach me:
+LinkedIn: www.linkedin.com/in/ramina-ibraimova-b8abb337a
 
-### 🛠 Languages and Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg" alt="bash" width="40" height="40"/>
-</p>
+Instagram: https://www.instagram.com/romiisromie/
 
-![Views](https://komarev.com/ghpvc/?username=romiisromie&color=blueviolet&style=flat-square)
+## 📊 GitHub Stats
+
+![Ramina's GitHub stats](https://github-readme-stats.vercel.app/api?username=romiisromie&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romiisromie&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=romiisromie&theme=tokyonight)
