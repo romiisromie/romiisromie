@@ -20,7 +20,6 @@ Instagram: https://www.instagram.com/romiisromie/
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=romiisromie&show_icons=true&theme=tokyonight" alt="Rami's GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiisromie&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
-</p>
+![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=romiisromie&show_icons=true&theme=default)
+
+![Rami's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=romiisromie&theme=default)
