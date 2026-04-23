@@ -18,9 +18,9 @@ LinkedIn: www.linkedin.com/in/ramina-ibraimova-b8abb337a
 
 Instagram: https://www.instagram.com/romiisromie/
 
-### 📊 GitHub Stats (Статистика)
+### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=romiisromie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Rami's GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiisromie&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=romiisromie&show_icons=true&theme=tokyonight" alt="Rami's GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiisromie&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
 </p>
