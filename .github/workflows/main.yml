@@ -46,3 +46,11 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+          
+- name: Generate streak card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}&theme=dark
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
