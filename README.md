@@ -17,9 +17,3 @@ I am the founder and director of the **GuardAurora**, **SolEstate** and **Verix*
 LinkedIn: www.linkedin.com/in/ramina-ibraimova-b8abb337a
 
 Instagram: https://www.instagram.com/romiisromie/
-
-### 📊 GitHub Stats
-
-![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=romiisromie&show_icons=true&theme=default)
-
-![Rami's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=romiisromie&theme=default)
