@@ -20,6 +20,8 @@ LinkedIn: www.linkedin.com/in/ramina-ibraimova-b8abb337a
 
 Instagram: https://www.instagram.com/romiisromie/
 
+Gmail: romiisromie@gmail.com
+
 ### 📊 My GitHub Stats
 
 ![Stats Card](./profile/stats.svg)
