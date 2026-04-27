@@ -6,7 +6,7 @@ I am the founder and director of the **GuardAurora**, **SolEstate** and **Verix*
 
 ### [🛡️ GuardAurora Web App](https://romiisromie.github.io/GuardAurora-Web/)
 
-### [🏫 Verix Web App]([https://romiisromie.github.io/GuardAurora-Web/](https://romiisromie.github.io/verix/))
+### [🏫 Verix Web App](https://romiisromie.github.io/GuardAurora-Web/)
 
 ### 🏆 Achievements & Education
 * **🥇 Gold Award @ Koala Mathematics Olympiad (KMO 2026)** — International achievement in Math.
