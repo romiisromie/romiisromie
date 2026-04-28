@@ -10,6 +10,7 @@ I am the founder and director of the **GuardAurora**, **SolEstate** and **Verix*
 
 ### 🏆 Achievements & Education
 * **🥇 Gold Award @ Koala Mathematics Olympiad (KMO 2026)** — International achievement in Math.
+* **🥇 A prize-winning place in the ‘Trans-Siberian Express’ International English Language Olympiad.
 * **🥇 1st Place @ Fizmat Engineering Contest** — Team leader, overall victory among 10th grades.
 * **🚀 Top-20 Finalist @ GIRLS GO FIRST Startup Contest 2026** — Recognized for entrepreneurial excellence.
 * **🔬 Fizmat Science Fair Finalist** — Computer Science project finalist.
