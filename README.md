@@ -4,6 +4,8 @@
 ## 👩‍💻 About Me
 I am the founder and director of the **GuardAurora**, **SolEstate** and **Verix** projects
 
+Founder of the robotics team
+
 ### [🛡️ GuardAurora Web App](https://romiisromie.github.io/GuardAurora-Web/)
 
 ### [🏫 Verix Web App](https://romiisromie.github.io/verix/)
