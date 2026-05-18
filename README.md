@@ -13,6 +13,7 @@ Founder of the robotics team
 ### 🏆 Achievements & Education
 * **🥇 Gold Award @ Asia International Mathematical Olympiad (AIMO 2026)** — International mathematics competition achievement.
 * **🥇 Gold Award @ Koala Mathematics Olympiad (KMO 2026)** — International achievement in Math.
+* **🥉 The 8th International Scientific and Practical Conference on ‘Science, Technology, Algorithmisation and Programming’** - bronze medal
 * **🥇 A prize-winning place in the ‘Trans-Siberian Express’ International English Language Olympiad.**
 * **🥇 1st Place @ Fizmat Engineering Contest** — Team leader, overall victory among 10th grades.
 * **🚀 Top-20 Finalist @ GIRLS GO FIRST Startup Contest 2026** — Recognized for entrepreneurial excellence.
