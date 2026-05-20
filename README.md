@@ -10,7 +10,7 @@ Founder of the robotics team
 
 ### [🏫 Verix Web App](https://romiisromie.github.io/verix/)
 
-### [🔐 SolEstate]
+### [🔐 SolEstate](https://solestate-psi.vercel.app/)
 
 ### 🏆 Achievements & Education
 * **🥇 Gold Award @ Asia International Mathematical Olympiad (AIMO 2026)** — International mathematics competition achievement.
