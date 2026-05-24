@@ -12,6 +12,8 @@ Founder of the robotics team
 
 ### [🔐 SolEstate](https://solestate-psi.vercel.app/)
 
+### [Aurelius]
+
 ### 🏆 Achievements & Education
 * **🥇 Gold Award @ Asia International Mathematical Olympiad (AIMO 2026)** — International mathematics competition achievement.
 * **🥇 Gold Award @ Koala Mathematics Olympiad (KMO 2026)** — International achievement in Math.
