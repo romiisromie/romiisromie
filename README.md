@@ -27,6 +27,8 @@ Founder of the robotics team
 ## 📫 How to reach me:
 LinkedIn: www.linkedin.com/in/ramina-ibraimova-b8abb337a
 
+YouTube:
+
 Instagram: https://www.instagram.com/romiisromie/
 
 Gmail: romiisromie@gmail.com
