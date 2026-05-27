@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ibraimova Ramina
+## Hello there 👋 I'm Ibraimova Ramina
 **🛡️Cybersecurity / 💻Computer Science / 🏫National School of Physics & Math (FIZMAT)**
 
 ## 👩‍💻 About Me
