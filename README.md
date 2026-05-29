@@ -12,7 +12,7 @@ Founder of the robotics team, GridX | #35600
 
 ### [🔐 SolEstate](https://solestate-psi.vercel.app/)
 
-### [Aurelius]
+### [Aurelius]()
 
 ### 🏆 Achievements & Education
 * **🥇 Gold Award @ Asia International Mathematical Olympiad (AIMO 2026)** — International mathematics competition achievement.
