@@ -28,7 +28,7 @@ Founder of the robotics team, GridX | #35600
 ## 📫 How to reach me:
 LinkedIn: www.linkedin.com/in/ramina-ibraimova-b8abb337a
 
-YouTube:
+YouTube: https://youtube.com/@romiisromie?si=127Hrqg_a_F3jgJq
 
 Instagram: https://www.instagram.com/romiisromie/
 
