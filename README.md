@@ -26,7 +26,7 @@ Founder of the robotics team, GridX | #35600
 * **🤝 100+ Volunteer Hours**
 
 ## 📫 How to reach me:
-LinkedIn: www.linkedin.com/in/ramina-ibraimova-b8abb337a
+LinkedIn: https://www.linkedin.com/in/romiisromie/
 
 YouTube: https://youtube.com/@romiisromie?si=127Hrqg_a_F3jgJq
 
