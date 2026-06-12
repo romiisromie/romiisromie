@@ -34,6 +34,26 @@ Instagram: https://www.instagram.com/romiisromie/
 
 Gmail: romiisromie@gmail.com
 
+### Socials
+
+<p align="left">
+  <a href="https://github.com/romiisromie" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/romiisromie/" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" width="32" height="32" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@romiisromie?si=127Hrqg_a_F3jgJq" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" width="32" height="32" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/romiisromie/" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" height="32" alt="Instagram" />
+  </a>
+  <a href="mailto:romiisromie@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" height="32" alt="Gmail" />
+  </a>
+</p>
+
 ### 📊 My GitHub Stats
 
 ![Stats Card](./profile/stats.svg)
