@@ -37,20 +37,24 @@ Gmail: romiisromie@gmail.com
 ### Socials
 
 <p align="left">
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="32" alt="GitHub" />
+  <a href="https://github.com/romiisromie" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="32" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/romiisromie/" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" width="32" height="32" alt="LinkedIn" style="fill: #0077B5;" />
   </a>
-  <a href="https://youtube.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="32" alt="YouTube" />
+  &nbsp;
+  <a href="https://youtube.com/@romiisromie?si=127Hrqg_a_F3jgJq" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" width="32" height="32" alt="YouTube" />
   </a>
-  <a href="https://instagram.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="32" alt="Instagram" />
+  &nbsp;
+  <a href="https://www.instagram.com/romiisromie/" target="_blank" rel="noreferrer">
+    <img src="https://jsdelivr.net" width="32" height="32" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="mailto:romiisromie@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="32" alt="Gmail" />
+    <img src="https://jsdelivr.net" width="32" height="32" alt="Gmail" />
   </a>
 </p>
 
