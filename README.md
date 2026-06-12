@@ -18,8 +18,4 @@
 
 ### 📊 My GitHub Stats
 
-![Stats Card](./profile/stats.svg)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romiisromie&theme=flat)
-
-![Top Languages Card](./profile/top-langs.svg)
