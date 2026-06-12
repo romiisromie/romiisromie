@@ -34,6 +34,22 @@ Instagram: https://www.instagram.com/romiisromie/
 
 Gmail: romiisromie@gmail.com
 
+<a href="https://github.com/romiisromie">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/romiisromie/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+</a>
+<a href="https://youtube.com/@romiisromie">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="32" height="32" alt="YouTube"/>
+</a>
+<a href="https://www.instagram.com/romiisromie/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" height="32" alt="Instagram"/>
+</a>
+<a href="mailto:your.email@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" alt="Gmail"/>
+</a>
+
 # Socials
 
 <a href="https://github.com/romiisromie">
