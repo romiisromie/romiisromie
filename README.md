@@ -25,15 +25,6 @@ Founder of the robotics team, GridX | #35600
 * **🔬 Fizmat Science Fair Finalist** — Computer Science project finalist.
 * **🤝 100+ Volunteer Hours**
 
-## 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/romiisromie/
-
-YouTube: https://youtube.com/@romiisromie?si=127Hrqg_a_F3jgJq
-
-Instagram: https://www.instagram.com/romiisromie/
-
-Gmail: romiisromie@gmail.com
-
 # Socials
 
 <a href="https://github.com/romiisromie">
