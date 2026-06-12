@@ -1,19 +1,6 @@
 ## Hello there 👋 I'm Ibraimova Ramina
 **🛡️Cybersecurity / 💻Computer Science / 🏫National School of Physics & Math (FIZMAT)**
 
-## 👩‍💻 About Me
-I am the founder and director of the **GuardAurora**, **SolEstate** and **Verix** projects
-
-Founder of the robotics team, GridX | #35600
-
-### [🛡️ GuardAurora Web App](https://romiisromie.github.io/GuardAurora-Web/)
-
-### [🏫 Verix Web App](https://romiisromie.github.io/verix/)
-
-### [🔐 SolEstate](https://solestate-psi.vercel.app/)
-
-### [DermoSense Pro]()
-
 # Socials
 
 <a href="https://github.com/romiisromie">
