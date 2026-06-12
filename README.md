@@ -1,5 +1,5 @@
 ## Hello there 👋 I'm Ibraimova Ramina
-**🛡️Cybersecurity & AI Enthusiast / 💻Computer Science / 🏫National School of Physics & Math (FIZMAT)**
+**🛡️Cybersecurity / 💻Computer Science / 🏫National School of Physics & Math (FIZMAT)**
 
 ## 👩‍💻 About Me
 I am the founder and director of the **GuardAurora**, **SolEstate** and **Verix** projects
