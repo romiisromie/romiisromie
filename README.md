@@ -1,5 +1,5 @@
 ## Hello there 👋 I'm Ibraimova Ramina
-**🛡️Cybersecurity / 💻Computer Science / 🏫National School of Physics & Math (FIZMAT)**
+**🛡️Cybersecurity / 💻Computer Science / 🤖Artificial Intelligence & Machine Learning / 🏫National School of Physics & Math (FIZMAT)**
 
 # Socials
 
